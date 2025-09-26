@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - introduction</title>
+    <link rel="self" type="application/atom+xml" href="https://flamintune.github.io/hu-langmin/tags/introduction/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://flamintune.github.io/hu-langmin"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-09-24T00:00:00+00:00</updated>
+    <id>https://flamintune.github.io/hu-langmin/tags/introduction/atom.xml</id>
+    <entry xml:lang="en">
+        <title>开始的开始</title>
+        <published>2025-09-24T00:00:00+00:00</published>
+        <updated>2025-09-24T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://flamintune.github.io/hu-langmin/initial/"/>
+        <id>https://flamintune.github.io/hu-langmin/initial/</id>
+        
+        <content type="html" xml:base="https://flamintune.github.io/hu-langmin/initial/">&lt;p&gt;这是一个技术博客，用来展示我在技术领域的学习和思考。&lt;&#x2F;p&gt;
+&lt;!-- 弄成一张表格, 第一行是大领域, 第二行是小方向, 第三行是学习状态 --&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;领域&lt;&#x2F;th&gt;&lt;th&gt;方向&lt;&#x2F;th&gt;&lt;th&gt;状态&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;前端&lt;&#x2F;td&gt;&lt;td&gt;SSR-&amp;gt;RSC&lt;&#x2F;td&gt;&lt;td&gt;尝试输出中&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;后端&lt;&#x2F;td&gt;&lt;td&gt;Mysql 底层原理&lt;&#x2F;td&gt;&lt;td&gt;未开始&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;机器学习&lt;&#x2F;td&gt;&lt;td&gt;大模型，Happy-LLM&lt;&#x2F;td&gt;&lt;td&gt;学习中&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;数学&lt;&#x2F;td&gt;&lt;td&gt;线性代数&lt;&#x2F;td&gt;&lt;td&gt;未开始&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+</content>
+        
+    </entry>
+</feed>
