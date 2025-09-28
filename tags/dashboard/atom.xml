@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - dashboard</title>
+    <link rel="self" type="application/atom+xml" href="https://flamintune.github.io/hu-langmin/tags/dashboard/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://flamintune.github.io/hu-langmin"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-09-24T00:00:00+00:00</updated>
+    <id>https://flamintune.github.io/hu-langmin/tags/dashboard/atom.xml</id>
+    <entry xml:lang="en">
+        <title>我的Dashboard</title>
+        <published>2025-09-24T00:00:00+00:00</published>
+        <updated>2025-09-24T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://flamintune.github.io/hu-langmin/initial/"/>
+        <id>https://flamintune.github.io/hu-langmin/initial/</id>
+        
+        <content type="html" xml:base="https://flamintune.github.io/hu-langmin/initial/">&lt;p&gt;这是一个技术博客，用来展示我在技术领域的学习和思考。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mu-qian-dui-wo-zui-zhong-yao-de-shi-qing&quot;&gt;目前对我最重要的事情&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;最重要的事情只有一件，当最重要的事情完成了，其他的事情也就都迎刃而解了。&lt;&#x2F;p&gt;
+&lt;p&gt;—— 《最重要的事情，只有一件》&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“很多人做的东西一个季度下来，uv &amp;lt; 100，技术挑战可能主要是如何在30%人力投入Oncall+四步法灌顶的同时如期交付CRUD代码。”&lt;&#x2F;p&gt;
+&lt;p&gt;—— 《脉脉上的评论》&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;目前我最重要的事情就是，&lt;strong&gt;提升自己的市场竞争力&lt;&#x2F;strong&gt;，有随时能够&lt;strong&gt;跑路&lt;&#x2F;strong&gt;以及找下家的底气，而不是出来之后就失业没有收入了。即保障能长时间维持自己的生活水平。&lt;&#x2F;p&gt;
+&lt;p&gt;目前最大的达摩克利斯之剑就是，手上的项目太烂了，因为是内部系统，做的事也都比较简单，没有什么技术含量，也没有什么价值，非常非常容易暴雷。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;wo-gan-xing-qu-de-ling-yu&quot;&gt;我感兴趣的领域&lt;&#x2F;h2&gt;
+&lt;!-- 弄成一张表格, 第一行是大领域, 第二行是小方向, 第三行是学习状态 --&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;领域&lt;&#x2F;th&gt;&lt;th&gt;方向&lt;&#x2F;th&gt;&lt;th&gt;状态&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;前端&lt;&#x2F;td&gt;&lt;td&gt;SSR-&amp;gt;RSC&lt;&#x2F;td&gt;&lt;td&gt;尝试输出中&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;后端&lt;&#x2F;td&gt;&lt;td&gt;Mysql 底层原理&lt;&#x2F;td&gt;&lt;td&gt;未开始&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;机器学习&lt;&#x2F;td&gt;&lt;td&gt;大模型，Happy-LLM&lt;&#x2F;td&gt;&lt;td&gt;学习中&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;数学&lt;&#x2F;td&gt;&lt;td&gt;线性代数&lt;&#x2F;td&gt;&lt;td&gt;未开始&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+</content>
+        
+    </entry>
+</feed>
